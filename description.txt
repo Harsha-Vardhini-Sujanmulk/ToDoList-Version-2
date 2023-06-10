@@ -1,0 +1,3 @@
+// js hint esversion:6
+// install express, ejs, body-parser, lodash  and mongoose through npm
+npm i express ejs body-parser lodash mongoose
